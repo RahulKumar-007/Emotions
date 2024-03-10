@@ -4,5 +4,5 @@ Required Python Libraries: Install the necessary Python libraries using pip:
     tensorflow (which includes keras)
     os
 
-![Screenshot_20240311_005328](https://github.com/govindvgd/Emotions/assets/148149766/bc18836e-52ab-46a2-9c84-a3b8880d0f30)
-![Screenshot_20240311_005525](https://github.com/govindvgd/Emotions/assets/148149766/25904301-0f1d-4f9c-b2d9-9168b7ae85dd)
+![Screenshot_20240311_005821](https://github.com/govindvgd/Emotions/assets/148149766/72be7a01-ab67-47c4-81ec-9009e8571225)
+![Uploading Screenshot_20240311_005932.png…]()
